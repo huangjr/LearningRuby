@@ -1,0 +1,1 @@
+puts "Hi, we are Amys."
